@@ -29,19 +29,17 @@ Nessa projeto você vai encontrar codigos com os seguintes assuntos:
 - Estrutura de dados com objetos;
 - Criação de funções;
 - Operadores comparativos;
-[] Estrutura de repetição
+- Estrutura de repetição:
    -while
    -for
    -for..of
-[]Vetores (Arrays)
-  []tipo de dado estruturado
-[] Controlar o fluxo da aplicação
-[] math
- -Pacotes com funcionalidades matématicas
- -math.random()
- -Math.round() -Math.ceil() -Math.floor
-[] Console
- -Pacotes com funcionalidades para o console do devtools(browser)
+- Vetores (Arrays):
+  tipo de dado estruturado.
+- Controlar o fluxo da aplicação:
+- Pacotes com funcionalidades matématicas:
+   math.random() Math.round() -Math.ceil() -Math.floor
+- Console:
+  Pacotes com funcionalidades para o console do devtools(browser)
 
 content index:
 
@@ -67,8 +65,8 @@ um alert com a quantidade de tentativas "Parabéns! Você advinhou o numero em $
 7ª Lista de pacientes, com nome, idade, peso, altura.
 
 8ª Lista pacientes, onde tem uma função para fazer o calculo de Imc e mostrar as informações de cada paciente.
-    "Paciente X possui o IMC de: Y" 
-    "peso / (altura * altura)" - IMC 
+   - "Paciente X possui o IMC de: Y" 
+   - "peso / (altura * altura)" - IMC 
 
 Desafio: Inserir dois numeros e como resultado receber, soma, subtração, multiplicação, divisão, resto, se a soma dos dois numeros é impar ou par e se os dois numeros são iguais.
 
